@@ -4,6 +4,8 @@
   "description": "Simple website boilerplate with a few helpful utilities (for fun)",
   "main": "index.js",
   "scripts": {
+    "watch-js": "babel src/index.js -w -o dist/index.bundle.js",
+    "build-js": "babel src/index.js -o dist/index.bundle.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/romankp/website-boilerplate/issues"
   },
-  "homepage": "https://github.com/romankp/website-boilerplate#readme"
+  "homepage": "https://github.com/romankp/website-boilerplate#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.14.3",
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.4"
+  }
 }
