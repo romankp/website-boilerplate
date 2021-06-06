@@ -2,7 +2,7 @@
 
 ## TO-DO
 
-- Implement babel
+- ~~Implement babel~~
 - Basic index.html
 - Implement LESS
 - NPM command refinement
