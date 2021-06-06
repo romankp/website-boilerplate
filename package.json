@@ -1,0 +1,25 @@
+{
+  "name": "website-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple website boilerplate with a dash of helpful utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romankp/website-boilerplate.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "babel",
+    "boilerplate"
+  ],
+  "author": "Roman Pougatchev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romankp/website-boilerplate/issues"
+  },
+  "homepage": "https://github.com/romankp/website-boilerplate#readme"
+}
