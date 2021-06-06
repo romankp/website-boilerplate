@@ -7,5 +7,6 @@ dist/*
 !.gitignore
 !.gitkeep
 !.editorconfig
+!index.html
 
 package-lock.json
