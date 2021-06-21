@@ -17,6 +17,7 @@
     "html",
     "css",
     "babel",
+    "less",
     "boilerplate"
   ],
   "author": "Roman Pougatchev",
@@ -26,9 +27,9 @@
   },
   "homepage": "https://github.com/romankp/website-boilerplate#readme",
   "devDependencies": {
-    "@babel/cli": "7.14",
-    "@babel/core": "7.14",
-    "@babel/preset-env": "7.14",
-    "less": "4.1"
+    "@babel/cli": "~7.14",
+    "@babel/core": "~7.14",
+    "@babel/preset-env": "~7.14",
+    "less": "~4.1"
   }
 }

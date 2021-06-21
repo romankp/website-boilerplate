@@ -10,7 +10,8 @@ The directory structure is pretty standard for SPAs and node apps. I think it ma
 
 - ~~Implement babel~~
 - ~~Basic index.html~~
-- Implement LESS
+- ~~Implement LESS~~
+- Better watch commands
 - NPM command refinement
 
 ## Possible/Probable Future Additions
